@@ -1,14 +1,12 @@
+import LuisOlmosImage from "../assets/my-picture.jpg";
+
 export default function AboutMe() {
   return (
     <main className="container">
       <div className="row text-center text-lg-start">
         <h1 className="my-5 fw-bold">About Me</h1>
         <div className="col-lg-6 mb-5">
-          <img
-            id="about-me-img"
-            src="https://www.placeholder.co/500"
-            alt="photo of me :)"
-          />
+          <img id="about-me-img" src={LuisOlmosImage} alt="photo of me :)" />
         </div>
         <div className="col-lg-6 fs-5 mb-5">
           <p>
