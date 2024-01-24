@@ -58,32 +58,32 @@ const projects = [
       alt: "weekly moodal image",
     },
   },
-  {
-    id: 5,
-    title: "",
-    description: "",
-    links: {
-      repo: "",
-      deployed: "",
-    },
-    image: {
-      source: "",
-      alt: "",
-    },
-  },
-  {
-    id: 6,
-    title: "",
-    description: "",
-    links: {
-      repo: "",
-      deployed: "",
-    },
-    image: {
-      source: "",
-      alt: "",
-    },
-  },
+  // {
+  //   id: 5,
+  //   title: "",
+  //   description: "",
+  //   links: {
+  //     repo: "",
+  //     deployed: "",
+  //   },
+  //   image: {
+  //     source: "",
+  //     alt: "",
+  //   },
+  // },
+  // {
+  //   id: 6,
+  //   title: "",
+  //   description: "",
+  //   links: {
+  //     repo: "",
+  //     deployed: "",
+  //   },
+  //   image: {
+  //     source: "",
+  //     alt: "",
+  //   },
+  // },
 ];
 
 export default projects;
